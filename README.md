@@ -1,7 +1,7 @@
 OnoScrapingSample
 =================
 
-Sample program for Ono.
+Sample program for [Ono - '斧'](https://github.com/mattt/Ono).
 
 
 for Japanese
